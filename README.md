@@ -1,7 +1,7 @@
-<h3>Full stack Learning management Web app using Next.js, Shadcn, Express.js and Clerk for authentication.</h3>
+<h3>Full stack Learning management Web app using Next.js, Shadcn, Express.js and Clerk for authentication with Stripe for payment.</h3>
 
 <p>TODO:<br/>
-Dockerize
+* Dockerize
 <br/>
-Write Step by step guide to run the program
+* Write Step by step guide to run the program
 </p>
