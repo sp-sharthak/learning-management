@@ -2,7 +2,6 @@
 **/dist/
 
 .env
-asset-download/
 client/.env.local
 client/.env.development
 client/.env.production
