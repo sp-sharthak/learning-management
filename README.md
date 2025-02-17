@@ -1,5 +1,7 @@
-<h3>Learning management app using <strong> Next.js </stroong>and <strong>Express.js</strong></h3>
+<h3>Full stack Learning management Web app using Next.js, Shadcn, Express.js and Clerk for authentication.</h3>
 
-<p>TODO:
+<p>TODO:<br/>
 Dockerize
+<br/>
+Write Step by step guide to run the program
 </p>
